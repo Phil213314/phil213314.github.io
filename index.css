@@ -1,0 +1,29 @@
+body {background-color:#00FA9A;}
+
+.C {
+width:300px;
+height:225px;
+border: 4px double blue
+
+}
+.V {
+width:600px;
+height:300px;
+
+}
+
+.B {
+width:213px;
+height:379px;
+border: 4px double red
+
+}
+
+.index {
+background-color:#E6E6FA;
+}
+
+.menu{
+	width:200px;
+	border: 4px double black
+}
