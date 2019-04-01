@@ -29,5 +29,9 @@ border: 4px double black
 }
 
 .a:hover {
-color: #D47424
+color: #D47424;
+}
+
+.a:visited {
+color: #c0c0c0;
 }
