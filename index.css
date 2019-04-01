@@ -28,10 +28,10 @@ width:200px;
 border: 4px double black
 }
 
-.a:hover {
+a:hover {
 color: #000000;
 }
 
-.a:visited {
+a:visited {
 color: #D47424;
 }
