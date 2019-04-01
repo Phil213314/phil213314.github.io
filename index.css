@@ -24,6 +24,10 @@ background-color:#E6E6FA;
 }
 
 .menu{
-	width:200px;
-	border: 4px double black
+width:200px;
+border: 4px double black
+}
+
+.a:hover {
+color: #D47424
 }
