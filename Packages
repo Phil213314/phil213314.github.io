@@ -2,10 +2,10 @@ Package: aircrack
 Name: aircrack
 Version: 1.6~20211007.482f56c
 Architecture: iphoneos-arm
-Description: IDK yet
+Description: This package was already added to the procursus repo. Download it from there.
 Maintainer: philx0
 Author: Hayden Seay
-Section: Network
+Section: Networking
 Depends: firmware (>= 11.0)
 Filename: ./aircrack.deb
 Size: 297248
