@@ -36,7 +36,7 @@ Description: Minimalist GPS spoofer
 Maintainer: philx0
 Author: Nepeta
 Section: Tweaks
-Depends: mobilesubstrate, firmware (>= 13.0), applist, com.rpetich.rocketbootstrap (>= 0.1.7), preferenceloader
+Depends: mobilesubstrate, firmware (>= 13.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7), preferenceloader
 Filename: ./relocatereborn.deb
 Size: 70024
 MD5sum: d072cf45d0f1f3be81b841a877d880d5
