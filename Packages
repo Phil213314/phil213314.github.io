@@ -1,7 +1,7 @@
 Package: com.philx0.aircrack
 Name: aircrack
 Version: 1.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Description: aircrack
 Maintainer: phil
 Author: philx0
