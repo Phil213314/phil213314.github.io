@@ -1,0 +1,14 @@
+Package: com.philx0.aircrack
+Name: aircrack
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: aircrack
+Maintainer: phil
+Author: philx0
+Section: Tweak
+Depends: firmware (>= 11.0)
+Filename: ./aircrack.deb
+Size: 297248
+MD5sum: 83e25486b825c81a2e53f553e9e5a9e4
+SHA1: 470d0ae3aa9d0a8b4d3fa6f6f388721507f14371
+SHA256: bba675d9fd7225b015829f7e14324007ad39773cdaf048494e498d31c90c4099
