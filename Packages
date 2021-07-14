@@ -21,7 +21,7 @@ Description: Youtube Customiser. Originally was on sarahh12099 repo but recently
 Maintainer: philx0, Nathan
 Author: Ryan, Sarah, Zoey
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), com.rpetrich.rocketbootstrap (>= 1.0.2), ffmpeg (>= 4.1.0), py.youtubedl | youtube-dl
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), com.rpetrich.rocketbootstrap (>= 1.0.2), ffmpeg (>= 4.1.0), youtube-dl
 Filename: ./youtubereborn.deb
 Size: 179830
 MD5sum: 685407d2985256091a8e18d19371d9f2
