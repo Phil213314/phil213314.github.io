@@ -26,6 +26,14 @@ border: 4px double blue
 
 }
 
+.button {
+  background-color: #000000;
+  color: #FFFFFF;
+  float: right;
+  padding: 10px;
+  border-radius: 10px;
+}
+
 .index {
 background-color:#E6E6FA;
 }
